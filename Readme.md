@@ -36,7 +36,7 @@
 > Multiple selection for toppings is not available.
 
 # Contact information.
-> To collaborate, reach me onrrkariuki415@gmail.com
+> To collaborate, reach me on rkariuki415@gmail.com
 
 # License and Copyright information.
 > License
