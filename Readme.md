@@ -21,7 +21,7 @@
 # Technologies used: 
 * html, 
 * css,
-* bootstrap,
+* bootstrap
 * js,
 * jQuery.
 
