@@ -8,10 +8,10 @@
 >  Be sure to give your application a suitable catchy name.
 
 # App Screenshot.
-<img src="https://github.com/scrupycoco/Pip_Pizza/blob/master/images/screenshot.png">
+<img src="images/Screnshot.png">
 
 # Author(s) information: 
-> Namugera Bbaale Philip
+>Raphael Kariuki
 
 # Setup instructions:
 >* Choose the size of pizza
@@ -38,7 +38,7 @@
 > Multiple selection for toppings is not available.
 
 # Contact information.
-> To collaborate, reach me on namugera.philip@gmail.com
+> To collaborate, reach me on rkariuki415@gmail.com
 
 # License and Copyright information.
-> The MIT License (MIT) Copyright © 2020 Namugera Bbaale Philip.
+> The MIT License (MIT) Copyright © 2020 Raphael Kariuki.

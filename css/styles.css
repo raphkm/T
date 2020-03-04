@@ -14,9 +14,10 @@
     font-family: 'Monoton';
 }
 .background{
-    height: 250px;
+    height: 500px;
     width: auto;
-    background-image: url(../images/pizzabg3.jpg);
+    background-image: url(../images/pizzabg2.jpg);
+    background-size: cover;
 }
 .moto{
     height: auto;

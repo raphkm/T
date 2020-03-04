@@ -133,15 +133,15 @@ $(document).ready(function(){
     });
 
    $("#delivery_no").click(function(){
-    alert("This is your reciept, take a screenshot of it and diaplay it at the counter of Pip Pizza.\n Your pizza order was.\n"+sizeSlecting+"@: "+sizePricing+"\n"+crustSelecting+"@: "+crustPricing+"\n"+toppingSelecting+"@: "+toppingPricing+"\n"+"Number of pizza's: "+pieces+"\n"+"Your total cost is. KCS: "+finalPrice+"\nThank YOu.");
+    alert("This is your reciept, take a screenshot of it and diaplay it at the counter of Pip Pizza.\n Your pizza order was.\n"+sizeSlecting+"@: "+sizePricing+"\n"+crustSelecting+"@: "+crustPricing+"\n"+toppingSelecting+"@: "+toppingPricing+"\n"+"Number of pizza's: "+pieces+"\n"+"Your total cost is. KCS: "+finalPrice+"\nThank You.");
    });
 
    $("#delivery_yes").click(function(){
-    var deliveryAddress = prompt("Note: Delivery will be KCS:500 and 200+ per km.!\n Please fill your delivery address.");
+    var deliveryAddress = prompt("Note: Delivery will be KSH:500 and 200+ per km.!\n Please fill your delivery address.");
     var addingDelivery = finalPrice+500;
     deliveryFinalPrice=addingDelivery;
     console.log(deliveryFinalPrice);
     console.log(deliveryAddress);
-    alert("Your order will be deliverd at: "+deliveryAddress+"\n"+"Please call: 0758657828 for confirmation.\n Your pizza order was.\n"+sizeSlecting+"@: "+sizePricing+"\n"+crustSelecting+"@: "+crustPricing+"\n"+toppingSelecting+"@: "+toppingPricing+"\n"+"Number of pizza's: "+pieces+"\nDelivery charge@: 500\n"+"Your total cost is. KCS: "+deliveryFinalPrice+"\n Please keep a screenshot of this receipt for confirmation on delivery. Thank YOu.");
+    alert("Your order will be deliverd at: "+deliveryAddress+"\n"+"Please call: 070000000 for confirmation.\n Your pizza order was.\n"+sizeSlecting+"@: "+sizePricing+"\n"+crustSelecting+"@: "+crustPricing+"\n"+toppingSelecting+"@: "+toppingPricing+"\n"+"Number of pizza's: "+pieces+"\nDelivery charge@: 500\n"+"Your total cost is. KSH: "+deliveryFinalPrice+"\n Please keep a screenshot of this receipt for confirmation on delivery. Thank You.");
    });
 });
